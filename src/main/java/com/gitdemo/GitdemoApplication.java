@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitdemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Feature");
+		System.out.println("Master");
+		System.out.println("Master 1");
 		SpringApplication.run(GitdemoApplication.class, args);
 	}
 
